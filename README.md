@@ -1,5 +1,9 @@
 # pomodoro.sh
 
+
+https://user-images.githubusercontent.com/85220613/147912334-693a2e3e-34bf-4f51-a698-b2093852fb75.mp4
+
+
 simple bash pomodoro timer
 
 ## Usage
